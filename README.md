@@ -1,5 +1,5 @@
-# ibr
-This is my C++ implementation of the Woodford et al 2008 paper "Global Stereo Reconstruction under Second Order Smoothness Priors" included here.
+<h1>Image-based Rendering</h1>
+This is my 2013 C++ implementation of the Woodford et al 2008 paper "Global Stereo Reconstruction under Second Order Smoothness Priors" included here.
 
 <h2>IBR_Preprocess_GPU</h2>
 Computes stereo reconstruction from reference images.  It is GPU-accelerated.
