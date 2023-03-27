@@ -1,5 +1,6 @@
 <h1>Image-based Rendering</h1>
-<p>This is my 2013 C++ implementation of the Woodford et al 2008 paper "Global Stereo Reconstruction under Second Order Smoothness Priors" included here.  There are a few files sourced from other contributors:</p>
+<p>This is my 2013 C++ implementation of the Woodford et al 2008 paper "Global Stereo Reconstruction under Second Order Smoothness Priors" included here.</p>
+<p>There are a few files sourced from other contributors:</p>
 <li>IBR_Preprocess_GPU/arcball.h</li>
 <li>IBR_Preprocess_GPU/arcball.c</li>
 <li>IBR_Preprocess_GPU/decomposition.h</li>
