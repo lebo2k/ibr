@@ -3,7 +3,7 @@
 <p>There are a few files sourced from other contributors:</p>
 <li>IBR_Preprocess_GPU/arcball.h</li>
 <li>IBR_Preprocess_GPU/arcball.c</li>
-<li>IBR_Preprocess_GPU/decomposition.h</li>
+<li>IBR_Preprocess_GPU/decomposition.h: Philipp Wagner <bytefish[at]gmx[dot]de> 2012, Released to public domain under terms of the BSD Simplified license.</li>
 <li>IBR_Viewing/arcball.h</li>
 <li>IBR_Viewing/arcball.c</li>
 
